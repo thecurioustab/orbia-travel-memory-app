@@ -1,2 +1,9 @@
-# orbia-travel-memory-app
-ORBIA is a location-based travel memory app that helps users organize, explore, and relive their travel photos and videos through an interactive illustrated map and journey collections. This repository contains the initial product prototype and design exploration.
+# ORBIA
+
+**Every place you've been, on one map.**
+
+ORBIA is a travel memory app for India. It pins your travel photos on a hand-drawn map of India, turns each trip into a scrapbook you can share with friends, and gives you a stamp for every state and union territory you visit.
+
+This repository holds the clickable **prototype**. A working app is next.
+
+**Try it:** https://thecurioustab.github.io/orbia-travel-memory-app/
